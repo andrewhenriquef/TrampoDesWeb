@@ -49,3 +49,37 @@ body{
 	background-color: #E6E6E6;
 	background-image: url("imagem escritorio.jpg");
 }
+
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 200px;
+    margin: 10px;
+}
+
+#gallery{
+font-family: ubuntu;
+margin-left: 300px;
+
+}
