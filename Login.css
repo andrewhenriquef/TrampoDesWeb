@@ -18,3 +18,13 @@ form{
 
 	text-align: center;
 }
+
+#campos{
+ 
+    background-color: rgba(0,0,0,0.6);
+    margin-left: 450px;
+    margin-right: 450px;
+    border: 1px;
+    
+    
+}
